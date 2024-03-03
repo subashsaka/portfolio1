@@ -1,0 +1,176 @@
+            body{
+                background-color: #8EC5FC;
+                background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+                
+
+            }
+            .headimage{
+            height: 75px;
+            border-radius: 10px;
+            }
+            
+            p{
+                text-align: center;
+            
+            }
+            .search{
+                top: 355px;
+                    left: 575px;
+                    height: 30px;
+                    width: 50px;
+                    
+            }
+            .para{
+                font-size: large;
+            }
+
+                .header{
+                display: flex;                  
+                flex-direction: row;            
+                flex-wrap: wrap;              
+                justify-content: space-between; 
+                
+                }
+            .compname{
+                color: rgb(13, 13, 13);
+                font-family: 'Courier New', Courier, monospace;
+            }
+            .container{
+                display:flex;
+                flex-wrap: wrap;
+                justify-content:space-between;
+                align-content: flex;
+                gap :4em;
+
+            }
+
+            .shopbutton{
+                display: flex;
+                align-items: center;
+                justify-content: center
+            }
+            .loginbutton:hover{
+                background-color: rgb(176, 34, 34);
+                color: yellow;
+            }
+            .menubutton:hover{
+                background-color: #ab49ac;
+                color: white;
+            }
+            .aboutusbutton:hover{
+                background-color: #ab49ac;
+                color: white;
+            }
+            .helpbutton:hover{
+                background-color: #ab49ac;
+                color: azure;
+            }
+            .h1reviewe{
+                text-align: center;
+                color:black;
+                font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                font-style: oblique;
+                padding: 10px;
+                margin:7px;
+            }
+            
+            .container2{
+            display: flex;
+            }
+            .rewierphoto1{
+                height:60px;
+                border-radius: 10%;
+            }
+            .rewierphoto2{
+                height:60px;
+                border-radius: 10%;
+                width: 170px;
+            }
+
+            .container3{
+                display: flex;
+            }
+            .container4{
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                margin-top: 50px;
+            }
+            .socialmedia{
+                padding:-10px;
+                
+                text-align: center;
+                color: rgb(11, 11, 11);
+                margin-top: 50px;
+                font-style: oblique;
+                font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+            .item_1{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            .item_2{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            
+            .item_3{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            .item_4{
+                border: 2px black solid;
+                border-radius: 1px;
+                
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            .item_5{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            .item_6{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+                
+            }
+            .item_7{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            .item_8{
+                border: 2px black solid;
+                border-radius: 1px;
+                background-color: aqua;
+                box-shadow: 5px 5px #2c2c2d;
+            }
+            .buynowbutton:hover{
+            background-color:rgb(42, 48, 165);
+            color: azure;
+            }
+        .sizeform{
+            display: flex;
+            justify-content: space-evenly;
+        }
+    hr {
+        border: 1px solid black;
+        }
+        .rewivesbackground{
+            background-color: #8EC5FC;
+            background-color: #D9AFD9;
+            background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+            
+
+            }
